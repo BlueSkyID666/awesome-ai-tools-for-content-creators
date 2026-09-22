@@ -78,6 +78,8 @@ Where the hours actually go, and where an hour saved is felt weekly.
 - **[Runway](https://runway.com/)** — Generates and alters footage rather than only arranging what you filmed. `Freemium` `Web`
 - **[VEED](https://www.veed.io/)** — Aimed at somebody who wants a finished clip, not a timeline to learn. `Freemium` `Web`
 
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Coding-agent video toolkit built around editable plan.json timelines; install from source. `Free` `Open Source` `CLI`
+
 ## Clipping and captions
 
 Turning one long recording into the week's short-form obligations.
